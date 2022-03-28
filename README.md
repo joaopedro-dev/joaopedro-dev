@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
-  Hey Folks, I'm João Pedro
+  Hey Folks, I'm João Pedro 🇧🇷
 </h1>
 
 - ☕ Web Developer focused on help people and solve problems.
