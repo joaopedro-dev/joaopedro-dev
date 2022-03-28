@@ -1,13 +1,9 @@
 <h1 align="left">Hi there, I'm João Pedro<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔮 Web Developer focused on help people and solve problems.
- 
-- 📚 I’m currently learning Next.js.
-
+- ☕ Web Developer focused on help people and solve problems.
+- 🔮I’m currently learning Next.js.
 - 🤔 I’m looking for help with my personal project.
-
 - 💬 Ask me about javascript, coffee and star wars.
-
 - 🦝 Fun fact: I love raccons 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
