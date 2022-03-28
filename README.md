@@ -20,6 +20,6 @@
 <br></br>
 
 <div align="center">
-  ⬇️ watch out my repositories and if you like it please give me a code review pull and or some stars 
+  ⬇️ watch out my repositories and if you like it please give me a code review and or some stars 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">
 </div>
