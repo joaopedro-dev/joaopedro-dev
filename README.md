@@ -1,4 +1,8 @@
-<h1 align="left">Hi there, I'm João Pedro<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
+  Hi there, I'm João Pedro
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+</h1>
 
 - ☕ Web Developer focused on help people and solve problems.
 - 🔮I’m currently learning Next.js.
