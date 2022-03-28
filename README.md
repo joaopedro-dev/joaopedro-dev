@@ -6,7 +6,7 @@
 - Web Developer focused on help people and solve problems.
 - I’m currently learning Next.js.
 - I’m looking for help with my personal projects.
-- I like to talk about javascript, coffee and star wars !
+- I like to talk about code, coffee and Star Wars.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
