@@ -1,13 +1,12 @@
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
-  Hi there, I'm João Pedro
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+  Hey Folks, I'm João Pedro
 </h1>
 
 - ☕ Web Developer focused on help people and solve problems.
 - 🔮I’m currently learning Next.js.
-- 🤔 I’m looking for help with my personal project.
-- 💬 Ask me about javascript, coffee and star wars.
+- 🤖 I’m looking for help with my personal project.
+- 💬 Let's talk about javascript, coffee and star wars !
 - 🦝 Fun fact: I love raccons 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,3 +16,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br></br>
+> Watch out my repositories and if you like it please give me some pull request ou some stars ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">
