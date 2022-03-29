@@ -3,6 +3,7 @@
   Hey Folks, I'm João Pedro
 </h1>
 
+- Open source enthusiast.
 - Web Developer focused on help people and solve problems.
 - I’m currently learning Next.js.
 - I’m looking for help with my personal projects.
