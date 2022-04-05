@@ -9,7 +9,7 @@
 - I’m looking for help with my personal projects.
 - I like to talk about code, coffee and Star Wars.
 
-<h1>🧰 Tools that I'm using on my projects</h1>
+<h1>🧰 Tools that I'm using :</h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
