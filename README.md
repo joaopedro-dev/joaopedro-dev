@@ -4,10 +4,10 @@
 </h1>
 
 - Open source enthusiast.
-- Web Developer focused on help people and solve problems.
-- I’m currently learning Next.js.
+- Web Developer and Analyst with focus on problem solving.
+- I’m currently learning Next.js and Design Thinking.
 - I’m looking for help with my personal projects.
-- I like to talk about code, coffee and Star Wars.
+- I like to talk about tecnology, coffee and Star Wars.
 
 <h1>🧰 Tools that I'm using :</h1>
 
