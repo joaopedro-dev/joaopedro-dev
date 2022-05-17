@@ -1,14 +1,15 @@
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />
-  Hey Folks, I'm João Pedro
+  Hey Folks, I'm João Pedro 
 </h1>
 
 - Open source enthusiast.
 - Web Developer and Analyst with focus on problem solving.
 - I’m currently learning Next.js and Design Thinking.
 - I’m looking for help with my personal projects.
-- I like to talk about tecnology, coffee and Star Wars.
+- Coffe Lover and Star Wars fan.
 
+- 
 <h1>🧰 Tools that I'm using :</h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
