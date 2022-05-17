@@ -9,7 +9,6 @@
 - I’m looking for help with my personal projects.
 - Coffe Lover and Star Wars fan.
 
-- 
 <h1>🧰 Tools that I'm using :</h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
