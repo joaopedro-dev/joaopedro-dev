@@ -3,8 +3,7 @@
   Hey Folks, I'm João Pedro 
 </h1>
 
-- Open source enthusiast.
-- Web Developer and Analyst with focus on problem solving.
+- Open source enthusiast, Solution Analyst and Web Developer.
 - I’m currently learning Next.js and Design Thinking.
 - I’m looking for help with my personal projects.
 - Coffe Lover and Star Wars fan.
