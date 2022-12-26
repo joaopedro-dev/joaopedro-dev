@@ -19,5 +19,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <div align="center">
-  ⬇️ watch out my repositories and if you like it please give me a code review and or some stars 
+  ⬇️ watch out my repositories and if you like it please give me a code review or some stars 
 </div>
